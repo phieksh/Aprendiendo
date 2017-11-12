@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>	
+		<usuarioId>1</usuarioId>
+		<nombre>Carlos Castellanos</nombre>
+		<twiter>carlosCastellanos</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>2</usuarioId>
+		<nombre>Juan Parra</nombre>
+		<twiter>juanparra</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>3</usuarioId>
+		<nombre>Andrea Fuentes</nombre>
+		<twiter>andreaF</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>4</usuarioId>
+		<nombre>Carl Manzaneda</nombre>
+		<twiter>carlManza</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>5</usuarioId>
+		<nombre>Cecilia Parra</nombre>
+		<twiter>ceci</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>6</usuarioId>
+		<nombre>Fernando Carvjal</nombre>
+		<twiter>fer</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>7</usuarioId>
+		<nombre>Jose Castellanos</nombre>
+		<twiter>joseCastellanos</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>8</usuarioId>
+		<nombre>Elías Montes</nombre>
+		<twiter>elMonte</twiter>
+	</usuario>
+	<usuario>	
+		<usuarioId>9</usuarioId>
+		<nombre>Andrea Ramirez</nombre>
+		<twiter>andrea_ramirez</twiter>
+		<usuario>	
+		<usuarioId>10</usuarioId>
+		<nombre>Andrea Gutierrez</nombre>
+		<twiter>AndyGuty</twiter>
+	</usuario>
+	</usuario>
+</usuarios>
